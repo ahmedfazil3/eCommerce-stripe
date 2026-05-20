@@ -1,6 +1,6 @@
 # 🛍️ Stripe & Supabase E-Commerce App (Expo)
 
-Welcome to **Stripe Test**, a premium, full-featured mobile e-commerce application built with **React Native (Expo)**, powered by a **Supabase** backend, and integrated with **Stripe Payment Gateway** for secure checkout.
+Welcome to **eCommerce App with Stripe**, a premium, full-featured mobile e-commerce application built with **React Native (Expo)**, powered by a **Supabase** backend, and integrated with **Stripe Payment Gateway** for secure checkout.
 
 This project showcases a modern shopping experience, leveraging global state management with Redux, Supabase database + authentication, and Supabase Deno Edge Functions to safely process transactions using Stripe's native Payment Sheet.
 
